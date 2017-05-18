@@ -1,6 +1,6 @@
 {
   "name": "possessive-locale",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a i18n helper for making names possessive",
   "main": "index.js",
   "repository": {
