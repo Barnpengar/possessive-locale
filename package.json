@@ -1,0 +1,21 @@
+{
+  "name": "possessive-locale",
+  "version": "0.0.1",
+  "description": "a i18n helper for making names possessive",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Barnpengar/possesive-locale.git"
+  },
+  "keywords": [
+    "javascript",
+    "possessive",
+    "locale"
+  ],
+  "author": "Martin Agnälv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Barnpengar/possesive-locale/issues"
+  },
+  "homepage": "https://github.com/Barnpengar/possesive-locale#readme"
+}
