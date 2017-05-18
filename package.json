@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Barnpengar/possesive-locale.git"
+    "url": "git+ssh://git@github.com/Barnpengar/possessive-locale.git"
   },
   "keywords": [
     "javascript",
@@ -15,7 +15,7 @@
   "author": "Martin Agnälv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Barnpengar/possesive-locale/issues"
+    "url": "https://github.com/Barnpengar/possessive-locale/issues"
   },
-  "homepage": "https://github.com/Barnpengar/possesive-locale#readme"
+  "homepage": "https://github.com/Barnpengar/possessive-locale#readme"
 }
